@@ -2,7 +2,7 @@
 
 Nome: Mateus Rodrigues, Gabrielle Fernandes, Ester Tenório, Daniel Viana e Elisson Carlos
 
-Projeto: Loja de material elÈtrico e hidr·ulico (ElÈtrica Solar) 
+Projeto: Loja de material elétrico e hidráulico (Elétrica Solar) 
 
 |Banco de dados|
 
@@ -14,4 +14,4 @@ Nome: eletrica_solar
 - opcoes_de_listagem.jsp
 - forms_condicionais_listagem.jsp
 
-    *S„o apenas tentativas de fazer listagem de venda de uma forma diferente da listagem normal 
+    *São apenas tentativas de fazer listagem de venda de uma forma diferente da listagem normal 
