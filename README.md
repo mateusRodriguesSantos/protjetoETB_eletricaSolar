@@ -1,6 +1,6 @@
 # protjetoETB_eletricaSolar
 
-Nome: Mateus Rodrigues, Gabrielle Fernandes, Ester TenÛrio, Daniel Viana e Elisson Carlos
+Nome: Mateus Rodrigues, Gabrielle Fernandes, Ester Tenório, Daniel Viana e Elisson Carlos
 
 Projeto: Loja de material elÈtrico e hidr·ulico (ElÈtrica Solar) 
 
